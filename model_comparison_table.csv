@@ -1,0 +1,4 @@
+Experiment,Hidden Layers,Activation Function,Epochs,Batch Size,Test Accuracy
+Baseline Model,16-8,ReLU,20,32,0.9825000166893005
+More Neurons,32-16,ReLU,20,32,0.9825000166893005
+Tanh Activation,16-8,Tanh,20,32,0.9825000166893005
